@@ -1,7 +1,6 @@
 for asc in *.asc
 do
-apk=${asc%%.asc}
-gpg --verify $asc $apk
+gpg --keyserver-options auto-key-retrieve --verify $asc
 done
 
 
