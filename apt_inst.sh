@@ -14,7 +14,7 @@ sudo apt-get install -y autoconf
 
 
 # python
-sudo apt install python3
+sudo apt -y install python3
 sudo apt install spyder
 sudo apt install  python3-scipy python3-numpy python3-pandas
 
@@ -85,6 +85,8 @@ sudo apt install vlc
 # graphics
 sudo apt install gimp inkscape
 sudo apt -y install blender
+sudo apt -y install imagemagick
+
 
 # burnDVD
 sudo apt install brasero
