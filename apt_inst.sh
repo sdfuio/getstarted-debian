@@ -61,6 +61,8 @@ sudo apt -y install fonts-takao
 # office
 sudo apt -y install libreoffice
 
+#fdupes
+sudo apt -y install fdupes
 
 
 ###########################################
