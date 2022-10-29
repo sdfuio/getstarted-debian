@@ -1,1 +1,1 @@
-fdupes -d -N -r somefiles
+fdupes -d -N -r somedirectories
