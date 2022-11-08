@@ -64,6 +64,9 @@ sudo apt -y install libreoffice
 #fdupes
 sudo apt -y install fdupes
 
+# qrcode generator
+sudo apt -y install qrencode
+
 
 ###########################################
 # security
