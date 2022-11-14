@@ -8,4 +8,5 @@ cd chipsec
 python setup.py build_ext -i
 
 # run
-https://github.com/chipsec/chipsec
+ python3 chipsec_main.py 
+
