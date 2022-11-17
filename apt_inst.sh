@@ -36,6 +36,8 @@ sudo apt -y install chromium-browser
 # torbrowser
 sudo apt -y install torbrowser-launcher
 
+# Download Entire Websites
+apt-get install webhttrack
 
 #######################
 # tool
