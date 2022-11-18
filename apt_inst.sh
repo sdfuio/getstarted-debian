@@ -112,6 +112,8 @@ rm youtube-dl.sig
 # pdf viewer
 sudo apt -y install evince 
 
+# image viewer
+sudo apt -y install eog
 
 
 #######################
