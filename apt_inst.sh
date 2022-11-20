@@ -133,3 +133,7 @@ sudo apt -y install whois
 
 # partition editor
 sudo apt -y install gparted
+
+#
+sudo apt -y install squashfs-tools 
+
