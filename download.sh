@@ -7,6 +7,10 @@ wget https://download3.vmware.com/software/WKST-PLAYER-1700/VMware-Player-Full-1
 # SHA256SUM: 	97080724e607b98887962b012283c481484146b4303c4897387dd86ce3a9aca1
 # https://www.vmware.com/products/workstation-player.html
 
-
+# Qubes
+https://ftp.qubes-os.org/iso/Qubes-R4.1.1-x86_64.iso
+https://ftp.qubes-os.org/iso/Qubes-R4.1.1-x86_64.iso.DIGESTS
+https://ftp.qubes-os.org/iso/Qubes-R4.1.1-x86_64.iso.asc
+https://keys.qubes-os.org/keys/qubes-release-4-signing-key.asc
 
 
