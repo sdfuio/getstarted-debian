@@ -13,4 +13,8 @@ https://ftp.qubes-os.org/iso/Qubes-R4.1.1-x86_64.iso.DIGESTS
 https://ftp.qubes-os.org/iso/Qubes-R4.1.1-x86_64.iso.asc
 https://keys.qubes-os.org/keys/qubes-release-4-signing-key.asc
 
+# tails
+https://download.tails.net/tails/stable/tails-amd64-5.7/tails-amd64-5.7.iso
+https://tails.boum.org/torrents/files/tails-amd64-5.7.iso.sig
+https://tails.boum.org/tails-signing.key
 
