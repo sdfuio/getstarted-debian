@@ -1,4 +1,7 @@
 
+# 
+sudo apt-get install ca-certificates curl wget  gnupg  lsb-release
+
 #######################
 # development
 #=========================
