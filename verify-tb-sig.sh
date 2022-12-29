@@ -23,3 +23,7 @@ gpg --verify tor-browser-linux64-${v}_ALL.tar.xz.asc
 # copy RSA key E53D989A9E2D47BF
 gpg --receive-keys E53D989A9E2D47BF
 gpg --verify tor-browser-linux64-${v}_ALL.tar.xz.asc
+
+#
+gpg --keyserver-options auto-key-retrieve --verify tor-browser-linux64-${v}_ALL.tar.xz.asc
+
